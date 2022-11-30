@@ -33,14 +33,14 @@
   .calendar-container_day h3 {
     margin: 0;
     z-index: -1;
-    background-color: rgba(36, 133, 79, 0.651);
+    background-color: rgba(10, 247, 30, 0.651);
   }
   
   .calendar-container_header {
     display: flex;
     justify-content: center;
     align-content: center;
-    background-color: rgba(36, 133, 79, 0.651);
+    background-color: rgba(18, 241, 118, 0.651);
     box-shadow: 0.3rem 0.3rem 1rem white;
     border-radius: 0.4rem;
   }

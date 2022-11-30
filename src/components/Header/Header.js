@@ -22,7 +22,7 @@ function Header() {
 
   return (
     <div className="header-container">
-      <Link to="/">GamilaSecret</Link>
+      <Link to="/">ＧＡＭＩＬＡ ＳＥＣＲＥＴ</Link>
       <div className="header-container_left">
         <Link to="/contact-us">Contact Us</Link>
         {currentUser ? (

@@ -21,7 +21,7 @@ const soapWorkShops = [
     },
     {
       content:
-        "Sorry, We know that you are full, but our dessert is extraordinary.",
+        "Sorry, We know you've seen it all, but our soap is extraordinary.",
       classMatch: "fifth",
     },
     {

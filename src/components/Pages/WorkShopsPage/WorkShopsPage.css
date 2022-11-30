@@ -1,7 +1,7 @@
 .steps_container {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    background: url("https://i.ibb.co/dM02z7D/48046371-372543050148466-3904115359279480832-n.jpg")
+    background: url("https://www.mekomit.co.il/wp-content/uploads/2020/07/F171108HP52.jpg")
       no-repeat center center/cover;
   }
   

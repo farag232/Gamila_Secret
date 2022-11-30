@@ -38,7 +38,7 @@
     height: 49vh;
     border-radius: 6rem;
     background-color: rgba(66, 65, 65, 0.836);
-    box-shadow: 0.2rem 0.2rem 0.5rem gray;
+    box-shadow: 0.2rem 0.2rem 0.5rem rgb(143, 4, 4);
     position: absolute;
     top: 10rem;
     left: 49rem;

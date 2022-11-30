@@ -10,6 +10,7 @@
   .contact-us_container {
     display: flex;
     justify-content: center;
+    background-color: rgb(88, 94, 94);
   }
   
   .contact-us_container_facebook {
