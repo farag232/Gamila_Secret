@@ -6,6 +6,7 @@
     justify-content: space-between;
     align-items: center;
     font-size: 2rem;
+    font-family: cursive;
   }
   
   .header-container a {
@@ -14,6 +15,7 @@
     color: white;
     font-weight: bold;
     text-shadow: 0rem 0.2rem rgb(65, 155, 125);
+    
   }
   
   .header-container_left {
